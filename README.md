@@ -8,13 +8,9 @@ React Native (Expo) で開発した、完全ローカル完結型の旅行計画
 
 ## 📱 画面イメージ / デモ
 
-## 📱 画面イメージ / デモ
-
 | タイトル画面 | アルバム画面 | 日程表画面 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/1e0a565d-15d7-4571-995f-19d39c5753b0" width="250" alt="タイトル画面" /> | <img src="https://github.com/user-attachments/assets/c0de8f1b-d6dd-427f-818b-c97d223644d5" width="250" alt="アルバム画面" /> | <img src="https://github.com/user-attachments/assets/7dfb49df-76d4-4104-bce1-f3757051c113" width="250" alt="日程表画面" /> |
-
-
 
 ---
 

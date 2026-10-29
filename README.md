@@ -107,8 +107,7 @@ React Native (Expo) で開発した、完全ローカル完結型の旅行計画
 
 ```bash
 # リポジトリのクローン
-git clone [https://github.com/naoki-minegishi/mergeTrip.git](https://github.com/naoki-minegishi/mergeTrip.git)
-
+git clone https://github.com/naoki-minegishi/mergeTrip.git
 # フォルダへ移動
 cd mergeTrip
 
